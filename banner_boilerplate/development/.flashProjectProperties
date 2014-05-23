@@ -1,0 +1,28 @@
+<projectDescription>
+  <id>1268544051187</id>
+  <name>BannerTemplate</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/stephen/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/stephen/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>./as</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="160x600.fla">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/160x600.fla</uri>
+    <uri label="300x250.fla">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/300x250.fla</uri>
+    <uri label="728x90.fla">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/728x90.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="160x600.fla">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/160x600.fla</uri>
+    <uri label="ClickArea.as">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/as/banner/util/ClickArea.as</uri>
+    <uri label="300x250.fla">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/300x250.fla</uri>
+    <uri label="Banner.as">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/as/banner/Banner.as</uri>
+    <uri label="Leaderboard.as">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/as/banner/Leaderboard.as</uri>
+    <uri label="WideSkyscraper.as">file:///Macintosh HD/Users/stephen/Documents/Steve Local/Work/024flashBannerTutorial/Banner Project Template/banner_template/development/as/banner/WideSkyscraper.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
